@@ -1,7 +1,9 @@
 certifi==2017.11.5
 chardet==3.0.4
 idna==2.6
+pyTelegramBotAPI==3.4.1
 requests==2.18.4
-urllib3==1.22
+six==1.11.0
 telebot==0.0.3
-PyTelegramBotAPI==2.2.3
+urllib3==1.22
+virtualenv==15.1.0
